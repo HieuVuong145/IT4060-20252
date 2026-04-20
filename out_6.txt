@@ -1,0 +1,14 @@
+total 280
+drwxr-xr-x@ 13 mac  staff    416 Apr 20 22:38 .
+drwxr-xr-x@ 21 mac  staff    672 Apr 14 07:57 ..
+drwxr-xr-x@  5 mac  staff    160 Apr 14 08:59 .vscode
+-rwxr-xr-x   1 mac  staff  34472 Apr 20 22:28 chat_server
+-rw-r--r--@  1 mac  staff   4175 Apr 20 22:24 chat_server.c
+-rw-r--r--   1 mac  staff    630 Apr 20 22:37 out_4.txt
+-rw-r--r--   1 mac  staff    686 Apr 20 22:37 out_5.txt
+-rw-r--r--   1 mac  staff      0 Apr 20 22:38 out_6.txt
+-rwxr-xr-x   1 mac  staff  33992 Apr 14 09:00 poll_server
+-rw-r--r--@  1 mac  staff   2539 Apr 14 08:59 poll_server.c
+-rwxr-xr-x   1 mac  staff  34640 Apr 20 22:28 telnet_server
+-rw-r--r--@  1 mac  staff   4899 Apr 20 22:24 telnet_server.c
+-rw-r--r--@  1 mac  staff     26 Apr 13 22:34 user.txt
